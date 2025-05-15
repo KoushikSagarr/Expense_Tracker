@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, feel free to reach out!
 
 - **Email:** shadowslayerryt@gmail.com
-- **GitHub:** [ShadowSLayerrYT](https://github.com/ShadowSLayerrYT)
+- **GitHub:** [KoushikSagarr](https://github.com/ShadowSLayerrYT)
 
 ---
 
